@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LLM</string>
+    <string name="pytorch">Spam message classification</string>
+    <string name="sentiment">Classification</string>
+    <string name="score">Score</string>
+    <string name="edittext_hint">Enter text here...</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ResultRowView">
+        <attr name="textAppearance" format="reference"/>
+        <attr name="progressBarHeightRes" format="dimension"/>
+        <attr name="progressBarPaddingRes" format="dimension"/>
+        <attr name="progressBarColorRes" format="reference"/>
+        <attr name="progressBarDrawableRes" format="reference"/>
+        <attr name="progressBarDrawableProgressStateRes" format="reference"/>
+
+    </declare-styleable>
+</resources>
